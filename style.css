@@ -1,0 +1,14 @@
+body {
+    font-family: "Georgia";
+}
+
+.btn-primary {
+    background-color: green;
+    border-color: transparent;
+    color: white;
+}
+
+.active {
+    background-color: green !important;
+    color: black;
+}
